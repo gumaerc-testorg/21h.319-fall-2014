@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 2eff9a41-859a-0bfe-9b50-0f0f10384eaa
 ---
@@ -56,7 +59,7 @@ Some points to consider as you prepare your final papers:
 2.  Have you considered how authors from Parts 1 and 2 have tried to place those issues in historical context by analogizing them to earlier experiences?
 3.  Have you taken up a couple of concrete examples from the national security policing part of the course and considered how some (not all) of our authors relate these issues to prior historical episodes?
 4.  Does the paper make clear your own position on the validity and use of these historical analogies, including whether they bear equally on both street crime and national security policing issues?
-5.  Have you used your own case from the 2nd paper to develop your answer to point 4?
+5.  Have you used your own case from the 2{{< sup "nd" >}} paper to develop your answer to point 4?
 6.  Does the paper have a clear introductory thesis statement that summarizes what you are doing with respect to the above points, especially point 4?
 7.  Have you carefully cited your sources and checked formatting of those cites in addition to proofreading the whole paper?
 

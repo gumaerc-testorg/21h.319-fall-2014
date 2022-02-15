@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: aff73d43-8cf1-f46b-b310-834c85da9e7d
 ---
@@ -145,7 +148,7 @@ Making History Count: The Death Penalty and Felon Disenfranchisement
 
 The Sentencing Project. "[Felony Disenfranchisement Laws in the United States](http://www.sentencingproject.org/detail/publication.cfm?publication_id=15)." 2013.
 
-[_Johnson v. Governor of Florida_](http://openjurist.org/405/f3d/1214/johnson-v-governor-of-state-of-florida), 405 F.3d 1214 (11th Cir. 2005).
+[_Johnson v. Governor of Florida_](http://openjurist.org/405/f3d/1214/johnson-v-governor-of-state-of-florida), 405 F.3d 1214 (11{{< sup "th" >}} Cir. 2005).
 
 Holloway, Pippa. _Living in Infamy: Felon Disenfranchisement and the History of American Citizenship_. Oxford University Press, 2014, pp. 1–14. ISBN: 9780199976089. \[Preview with [Google Books](http://books.google.com/books?id=ITFnAQAAQBAJ&pg=PA1#v=onepage)\]
 
@@ -295,7 +298,7 @@ Are Illegal Aliens "Criminals"?
 
 Ngai, Mae M. "[The Strange Career of the Illegal Alien: Immigration Restriction and Deportation Policy in the United States, 1921–1956](http://dx.doi.org/10.2307/3595069)." _Law and History Review_ 21, no. 1 (2003): 69–108.
 
-Sklansky, David. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Crime, Immigration and Ad Hoc Instrumentalism (PDF - 3.3MB)](http://bit.ly/1CqcxzP)." _15 New Criminal Law Review_ 157 (2012).
+Sklansky, David. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Crime, Immigration and Ad Hoc Instrumentalism (PDF - 3.3MB)](http://www.antoniocasella.eu/nume/Sklansky_2012.pdf)." _15 New Criminal Law Review_ 157 (2012).
 
 Giovagnoli, Mary. "[Overhauling Immigration Law: A Brief History and Basic Principles of Reform](https://www.americanimmigrationcouncil.org/research/overhauling-immigration-law-brief-history-and-basic-principles-reform)," Immigration Policy Center White Paper.
 
@@ -325,7 +328,7 @@ Legal Process and Civil Liberties – from WWII to the War on Terror
 
 Cole, David. _Enemy Aliens: Double Standards and Constitutional Freedoms in the War on Terrorism_. New Press, 2005, pp. 85–104. ISBN: 9781565849389.
 
-Saito, Natsu Taylor. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Symbolism under Siege: Japanese American Redress and the 'Racing' of Arab Americans as Terrorists (PDF - 2.0MB)](http://scholarship.law.berkeley.edu/cgi/viewcontent.cgi?article=1066&context=aalj)." _Asian American Law Journal at Berkeley Law_ 8, no. 1 (2001).
+Saito, Natsu Taylor. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Symbolism under Siege: Japanese American Redress and the 'Racing' of Arab Americans as Terrorists (PDF - 2.0MB)](https://lawcat.berkeley.edu/record/1117590/files/fulltext.pdf)." _Asian American Law Journal at Berkeley Law_ 8, no. 1 (2001).
 
 
 {{< tdclose >}}
@@ -341,7 +344,7 @@ Counter–Terrorism Law Today
 {{< tdopen >}}
 
 
-[_United States v. El–Mezain_](http://www.leagle.com/decision/In%20FCO%2020111227070.xml/U.S.%20v.%20EL-MEZAIN), 664 F.3d 467 (5th Cir. 2011)
+[_United States v. El–Mezain_](http://www.leagle.com/decision/In%20FCO%2020111227070.xml/U.S.%20v.%20EL-MEZAIN), 664 F.3d 467 (5{{< sup "th" >}} Cir. 2011)
 
 Malek, Alia, ed. _Patriot Acts: Narratives of Post–9 / 11 Injustice_. McSweeney's, 2011, pp. 187–206. ISBN: 9781936365388.
 

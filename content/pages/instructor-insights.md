@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 32948ae3-ff24-e22f-4227-de3077fdf8a0
 ---
@@ -63,20 +65,6 @@ HASS-S ![](/images/educator/icon-question-hass-s.png)
 ### Offered
 
 This was the first offering of this course in the History Department.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Classroom with two large windows and a long, rectangular seminar table surrounded by moveable chairs.]({{< resource_file c1160e71-914a-050b-bde9-79a69cc256af >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    All class sessions were held in a small-sized classroom like this one, which featured a LCD projector and moveable furniture around a seminar table.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
