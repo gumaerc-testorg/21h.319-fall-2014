@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2eff9a41-859a-0bfe-9b50-0f0f10384eaa
 resourcetype: Document
 title: 'Illegal Immigration: Evaluating the Constitutionality of SB 1070 in its Enforcement'
 uid: 410998d0-3921-2a66-0bfe-ddbc6e49547e

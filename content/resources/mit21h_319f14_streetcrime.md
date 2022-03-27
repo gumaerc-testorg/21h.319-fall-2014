@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2eff9a41-859a-0bfe-9b50-0f0f10384eaa
 resourcetype: Document
 title: Historical Patterns in Street Crime and National Security Policing
 uid: 14b99ddf-2b6f-5054-722e-9b8184d0fcf9

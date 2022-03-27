@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 9b55c363-546a-cf3b-403b-8d7744e9420b
 resourcetype: Document
 title: Imprisonment Rates vs. Population by Region
 uid: 1c31a09d-82d6-f569-ad8e-cdf3b5536182

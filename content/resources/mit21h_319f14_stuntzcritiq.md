@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2eff9a41-859a-0bfe-9b50-0f0f10384eaa
 resourcetype: Document
 title: "American Criminal Justice \u2013 Problems and How They Came to Be"
 uid: 59ec1846-9e7f-4749-2a9e-100133c2ccd9
