@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 2eff9a41-859a-0bfe-9b50-0f0f10384eaa
 ---
@@ -37,7 +38,7 @@ Five page critique of Stuntz in relation to the readings by Whitman, Steiker, Al
 
 Sample Student Work
 
-["American Criminal Justice – Problems and How They Came to Be" (PDF)]({{< baseurl >}}/resources/mit21h_319f14_stuntzcritiq) (Courtesy of Dishaan Ahuja. Used with permission.)
+{{< resource_link 59ec1846-9e7f-4749-2a9e-100133c2ccd9 "\"American Criminal Justice – Problems and How They Came to Be\" (PDF)" >}} (Courtesy of Dishaan Ahuja. Used with permission.)
 
 ### Paper 2
 
@@ -45,7 +46,7 @@ Six to seven page analysis of your chosen case in relation to the readings from 
 
 Sample Student Work
 
-["Illegal Immigration: Evaluating the Constitutionality of SB 1070 in its Enforcement" (PDF)]({{< baseurl >}}/resources/mit21h_319f14_illegalmmigr) (Courtesy of an MIT student. Used with permission.)
+{{< resource_link 410998d0-3921-2a66-0bfe-ddbc6e49547e "\"Illegal Immigration: Evaluating the Constitutionality of SB 1070 in its Enforcement\" (PDF)" >}} (Courtesy of an MIT student. Used with permission.)
 
 ### Final Paper
 
@@ -65,6 +66,6 @@ Some points to consider as you prepare your final papers:
 
 Sample Student Work
 
-["Awareness of Racial Discrimination in American Policing: Transforming The Silent Observer" (PDF)]({{< baseurl >}}/resources/mit21h_319f14_americapolic) (Courtesy of an MIT student. Used with permission.)
+{{< resource_link 5a8599f3-af7e-afe4-a32f-0b2667de26f1 "\"Awareness of Racial Discrimination in American Policing: Transforming The Silent Observer\" (PDF)" >}} (Courtesy of an MIT student. Used with permission.)
 
-["Historical Patterns in Street Crime and National Security Policing" (PDF)]({{< baseurl >}}/resources/mit21h_319f14_streetcrime) (Courtesy of Dishaan Ahuja. Used with permission.)
+{{< resource_link 14b99ddf-2b6f-5054-722e-9b8184d0fcf9 "\"Historical Patterns in Street Crime and National Security Policing\" (PDF)" >}} (Courtesy of Dishaan Ahuja. Used with permission.)
