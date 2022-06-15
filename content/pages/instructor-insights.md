@@ -1,22 +1,21 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
-parent_uid: null
 title: Instructor Insights
 uid: 32948ae3-ff24-e22f-4227-de3077fdf8a0
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _21H.319 Race, Crime, and Citizenship in American Law_ as it was taught by Prof. Malick Ghachem in Fall 2014.
 
 This course looks at key issues in the historical development and current state of modern American criminal justice, with an emphasis on its relationship to citizenship, nationhood, and race/ethnicity. We begin with a range of perspectives on the rise of what is often called "mass incarceration": how did our current system of criminal punishment take shape, and what role did race play in that process? Part Two takes up a series of case studies, including racial disparities in the administration of the death penalty, enforcement of the drug laws, and the regulation of police investigations. The third and final part of the seminar looks at national security policing: the development of a constitutional law governing the intersection of ethnicity, religion, and counter-terrorism, and the impact of counter-terrorism policy on domestic police practices.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
@@ -24,17 +23,16 @@ The course is designed to help students become comfortable in talking about and 
 
 ### Possibilities for Further Study/Careers
 
-*   Further education at law school to study legal reasoning and writing.
-*   Further studies in history and political science focusing on law.
+- Further education at law school to study legal reasoning and writing.
+- Further studies in history and political science focusing on law.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "'Getting one’s feet wet' does not always sound comforting, but to a certain extent that is the idea." "—Prof. Ghachem" >}}
 
-_Below, Prof. Ghachem describes various aspects of how he taught _21H.319 Race, Crime, and Citizenship in American Law_._
+_Below, Prof. Ghachem describes various aspects of how he taught_ 21H.319 Race, Crime, and Citizenship in American Law.
 
 ### The Impact of Ferguson
 
@@ -52,8 +50,7 @@ The case studies are a reminder that in law, as in all areas of knowledge, some 
 
 We took a fieldtrip to the federal court in Boston to witness a few hearings in criminal cases (mostly drug sentencings). The students seemed to feel that this experience gave concrete meaning to their learning, and many were surprised by what they saw. I highly recommend incorporating such a component. It would be ideal if the field trip could also include a discussion with the judge or other officers of the court; such interactions can sometimes be arranged, but the calendar of the federal trial courts is not scheduled very far in advance, so the timing needs to be somewhat flexible. State and local court proceedings are also a way to accomplish this goal.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -69,8 +66,7 @@ This was the first offering of this course in the History Department.
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -79,14 +75,15 @@ The students' grades were based on the following activities:
 - 20% Paper 2
 - 25% Final paper
 
-
 ### Instructor Insights on Assesment
+
 The most effective feedback is individual written and/or oral comments on the debate performances after they happen in class, and individual conferences with students to talk about their written work. This is easier to do with a relatively smaller class. Some difficulty can arise when students are just beginning to try out new skills, such as adversarial, public debate, without much prior experience. Students can feel at a loss as to how to proceed in that context, and so it is important to structure the first debate experience especially, providing rules, time limits, and guidelines as to what each stage of the debate is designed to accomplish. Beyond that, there is an important place in the course for simply trying out a new skill. “Getting one’s feet wet” does not always sound comforting, but to a certain extent that is the idea. Students also need reminders of their progress in the course, particularly as the format of the course requires them to undertake projects they may not usually carry out in their other course work.
 
-Student Information
--------------------
+## Student Information
 
-![Fewer than 10 students took this course when it was offered in Fall 2014.]({{< resource_file 69d52f58-56ca-e559-1057-37be0c7c373e >}})
+### Enrollment
+
+Fewer than 10 students
 
 ### Breakdown by Year
 
@@ -102,25 +99,22 @@ Few if any of the students had a background in reading legal sources or engaging
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 1 session per week for 3 hours per session; 15 sessions total; mandatory attendance.
-*   Class sessions regularly included discussions and viewing media related to current cases.
-*   Two class sessions included debates.
-*   One session included a fieldtrip to the [Federal Court in Boston](http://www.mad.uscourts.gov/).
+- Met 1 session per week for 3 hours per session; 15 sessions total; mandatory attendance.
+- Class sessions regularly included discussions and viewing media related to current cases.
+- Two class sessions included debates.
+- One session included a fieldtrip to the [Federal Court in Boston](http://www.mad.uscourts.gov/).
 
-Out of Class
-------------
+### Out of Class
 
 Activities such as:
 
-*   Background research
-*   Writing
-*   Preparation for debates
-*   Keeping up with current events by watching the news and reading newspapers and online news sources
+- Background research
+- Writing
+- Preparation for debates
+- Keeping up with current events by watching the news and reading newspapers and online news sources
