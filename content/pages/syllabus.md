@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, grading, and the schedule of course topics, debates, and assignment
+  due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: d17464b4-88e3-1ddc-7ce9-eac539291aed
 ---
@@ -173,7 +178,7 @@ Paper 1 due
 Making History Count: The Death Penalty and Felon Disenfranchisement
 {{< tdclose >}}
 {{< tdopen >}}
-1st Class Debate – Felon Disenfranchisement
+1{{< sup "st" >}} Class Debate – Felon Disenfranchisement
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -251,7 +256,7 @@ Ferguson, Race, and the Militarization of Local Police Forces
 Are Illegal Aliens "Criminals"?
 {{< tdclose >}}
 {{< tdopen >}}
-2nd Class Debate – Illegal Immigration
+2{{< sup "nd" >}} Class Debate – Illegal Immigration
 {{< tdclose >}}
 
 {{< trclose >}}
