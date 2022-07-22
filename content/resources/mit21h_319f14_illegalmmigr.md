@@ -6,6 +6,7 @@ file: /courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/4109
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Illegal Immigration: Evaluating the Constitutionality of SB 1070 in its 
 uid: 410998d0-3921-2a66-0bfe-ddbc6e49547e
 ---
 Example of student work for a writing assignment analyzing a chosen case in relation to the readings from Part Two of the seminar.
-

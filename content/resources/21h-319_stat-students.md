@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: 21H-319_stat-students
 uid: 69d52f58-56ca-e559-1057-37be0c7c373e
 ---
 Image showing the approximate number of students enrolled in the course.
-
