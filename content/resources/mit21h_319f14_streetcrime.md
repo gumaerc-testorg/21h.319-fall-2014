@@ -4,6 +4,7 @@ description: Example of student work for a writing assignment comparing the use 
   history in the debates over race discrimination in "everyday" criminal justice versus
   national security policing.
 file: /courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/14b99ddf2b6f5054722e9b8184d0fcf9_MIT21H_319F14_StreetCrime.pdf
+file_size: 177656
 file_type: application/pdf
 learning_resource_types:
 - Assignments
