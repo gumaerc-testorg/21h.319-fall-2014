@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image showing the approximate number of students enrolled in the course.
-file: /ol-ocw-studio-app/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/69d52f5856cae559105737be0c7c373e_21H-319_stat-students.png
+file: /courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/69d52f5856cae559105737be0c7c373e_21H-319_stat-students.png
 file_size: 2955
 file_type: image/png
 image_metadata:
